@@ -1,0 +1,80 @@
+Step : 1
+['E']
+Step : 2
+['num', 'numK', '(X', '(XK']
+Step : 3
+['numK', '(X', '(XK']
+Step : 4
+['(X', '(XK']
+Step : 5
+['(XK', '(numC', '(numKC', '((XC', '((XKC']
+Step : 6
+['(numC', '(numKC', '((XC', '((XKC', '(numCK', '(numKCK', '((XCK', '((XKCK']
+Step : 7
+['(numKC', '((XC', '((XKC', '(numCK', '(numKCK', '((XCK', '((XKCK', '(num)']
+Step : 8
+['((XC', '((XKC', '(numCK', '(numKCK', '((XCK', '((XKCK', '(num)', '(num+EC', '(num+EKC', '(num*EC', '(num*EKC']
+Step : 9
+['((XKC', '(numCK', '(numKCK', '((XCK', '((XKCK', '(num)', '(num+EC', '(num+EKC', '(num*EC', '(num*EKC']
+Step : 10
+['(numCK', '(numKCK', '((XCK', '((XKCK', '(num)', '(num+EC', '(num+EKC', '(num*EC', '(num*EKC']
+Step : 11
+['(numKCK', '((XCK', '((XKCK', '(num)', '(num+EC', '(num+EKC', '(num*EC', '(num*EKC', '(num)K']
+Step : 12
+['((XCK', '((XKCK', '(num)', '(num+EC', '(num+EKC', '(num*EC', '(num*EKC', '(num)K', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK']
+Step : 13
+['((XKCK', '(num)', '(num+EC', '(num+EKC', '(num*EC', '(num*EKC', '(num)K', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK']
+Step : 14
+['(num)', '(num+EC', '(num+EKC', '(num*EC', '(num*EKC', '(num)K', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK']
+Step : 15
+['(num+EC', '(num+EKC', '(num*EC', '(num*EKC', '(num)K', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK']
+Step : 16
+['(num+EKC', '(num*EC', '(num*EKC', '(num)K', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC']
+Step : 17
+['(num*EC', '(num*EKC', '(num)K', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC']
+Step : 18
+['(num*EKC', '(num)K', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC']
+Step : 19
+['(num)K', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC']
+Step : 20
+['(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC']
+Step : 21
+['(num+EKCK', '(num*ECK', '(num*EKCK', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK']
+Step : 22
+['(num*ECK', '(num*EKCK', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK']
+Step : 23
+['(num*EKCK', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK']
+Step : 24
+['(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK']
+Step : 25
+['(num+numKC', '(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)']
+Step : 26
+['(num+(XC', '(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC']
+Step : 27
+['(num+(XKC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC']
+Step : 28
+['(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC']
+Step : 29
+['(num+numKKC', '(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC']
+Step : 30
+['(num+(XKC', '(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC']
+Step : 31
+['(num+(XKKC', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC']
+Step : 32
+['(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC']
+Step : 33
+['(num+numKCK', '(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC', '(num+num)K']
+Step : 34
+['(num+(XCK', '(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC', '(num+num)K', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK']
+Step : 35
+['(num+(XKCK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC', '(num+num)K', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK']
+Step : 36
+['(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC', '(num+num)K', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK']
+Step : 37
+['(num+numKKCK', '(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC', '(num+num)K', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK']
+Step : 38
+['(num+(XKCK', '(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC', '(num+num)K', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK', '(num+num+EKCK', '(num+num+EKKCK', '(num+num*EKCK', '(num+num*EKKCK']
+Step : 39
+['(num+(XKKCK', '(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC', '(num+num)K', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK', '(num+num+EKCK', '(num+num+EKKCK', '(num+num*EKCK', '(num+num*EKKCK']
+Step : 40
+['(num+num)', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC', '(num+num)K', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK', '(num+num+EKCK', '(num+num+EKKCK', '(num+num*EKCK', '(num+num*EKKCK']

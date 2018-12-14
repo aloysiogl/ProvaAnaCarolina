@@ -1,0 +1,122 @@
+Step : 1
+['E']
+Step : 2
+['num', 'numK', '(X', '(XK']
+Step : 3
+['num', 'numK', '(X', '(numCK', '(numKCK', '((XCK', '((XKCK']
+Step : 4
+['num', 'numK', '(X', '(numCK', '(numKCK', '((XCK']
+Step : 5
+['num', 'numK', '(X', '(numCK', '(numKCK']
+Step : 6
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+EKCK', '(num*ECK', '(num*EKCK']
+Step : 7
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+EKCK', '(num*ECK']
+Step : 8
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+EKCK']
+Step : 9
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK', '(num+(XKKCK']
+Step : 10
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+numKCK', '(num+numKKCK', '(num+(XKCK']
+Step : 11
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+numKCK', '(num+numKKCK']
+Step : 12
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+numKCK', '(num+num+EKCK', '(num+num+EKKCK', '(num+num*EKCK', '(num+num*EKKCK']
+Step : 13
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+numKCK', '(num+num+EKCK', '(num+num+EKKCK', '(num+num*EKCK']
+Step : 14
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+numKCK', '(num+num+EKCK', '(num+num+EKKCK']
+Step : 15
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+numKCK', '(num+num+EKCK']
+Step : 16
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+numKCK']
+Step : 17
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK']
+Step : 18
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK']
+Step : 19
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+num+ECK', '(num+num+EKCK']
+Step : 20
+['num', 'numK', '(X', '(numCK', '(num+ECK', '(num+num+ECK']
+Step : 21
+['num', 'numK', '(X', '(numCK', '(num+ECK']
+Step : 22
+['num', 'numK', '(X', '(numCK', '(num+numCK', '(num+numKCK', '(num+(XCK', '(num+(XKCK']
+Step : 23
+['num', 'numK', '(X', '(numCK', '(num+numCK', '(num+numKCK', '(num+(XCK']
+Step : 24
+['num', 'numK', '(X', '(numCK', '(num+numCK', '(num+numKCK']
+Step : 25
+['num', 'numK', '(X', '(numCK', '(num+numCK', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK', '(num+num*EKCK']
+Step : 26
+['num', 'numK', '(X', '(numCK', '(num+numCK', '(num+num+ECK', '(num+num+EKCK', '(num+num*ECK']
+Step : 27
+['num', 'numK', '(X', '(numCK', '(num+numCK', '(num+num+ECK', '(num+num+EKCK']
+Step : 28
+['num', 'numK', '(X', '(numCK', '(num+numCK', '(num+num+ECK']
+Step : 29
+['num', 'numK', '(X', '(numCK', '(num+numCK']
+Step : 30
+['num', 'numK', '(X', '(numCK', '(num+num)K']
+Step : 31
+['num', 'numK', '(X', '(numCK']
+Step : 32
+['num', 'numK', '(X', '(num)K']
+Step : 33
+['num', 'numK', '(X']
+Step : 34
+['num', 'numK', '(numC', '(numKC', '((XC', '((XKC']
+Step : 35
+['num', 'numK', '(numC', '(numKC', '((XC']
+Step : 36
+['num', 'numK', '(numC', '(numKC']
+Step : 37
+['num', 'numK', '(numC', '(num+EC', '(num+EKC', '(num*EC', '(num*EKC']
+Step : 38
+['num', 'numK', '(numC', '(num+EC', '(num+EKC', '(num*EC']
+Step : 39
+['num', 'numK', '(numC', '(num+EC', '(num+EKC']
+Step : 40
+['num', 'numK', '(numC', '(num+EC', '(num+numKC', '(num+numKKC', '(num+(XKC', '(num+(XKKC']
+Step : 41
+['num', 'numK', '(numC', '(num+EC', '(num+numKC', '(num+numKKC', '(num+(XKC']
+Step : 42
+['num', 'numK', '(numC', '(num+EC', '(num+numKC', '(num+numKKC']
+Step : 43
+['num', 'numK', '(numC', '(num+EC', '(num+numKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC', '(num+num*EKKC']
+Step : 44
+['num', 'numK', '(numC', '(num+EC', '(num+numKC', '(num+num+EKC', '(num+num+EKKC', '(num+num*EKC']
+Step : 45
+['num', 'numK', '(numC', '(num+EC', '(num+numKC', '(num+num+EKC', '(num+num+EKKC']
+Step : 46
+['num', 'numK', '(numC', '(num+EC', '(num+numKC', '(num+num+EKC']
+Step : 47
+['num', 'numK', '(numC', '(num+EC', '(num+numKC']
+Step : 48
+['num', 'numK', '(numC', '(num+EC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC']
+Step : 49
+['num', 'numK', '(numC', '(num+EC', '(num+num+EC', '(num+num+EKC', '(num+num*EC']
+Step : 50
+['num', 'numK', '(numC', '(num+EC', '(num+num+EC', '(num+num+EKC']
+Step : 51
+['num', 'numK', '(numC', '(num+EC', '(num+num+EC']
+Step : 52
+['num', 'numK', '(numC', '(num+EC']
+Step : 53
+['num', 'numK', '(numC', '(num+numC', '(num+numKC', '(num+(XC', '(num+(XKC']
+Step : 54
+['num', 'numK', '(numC', '(num+numC', '(num+numKC', '(num+(XC']
+Step : 55
+['num', 'numK', '(numC', '(num+numC', '(num+numKC']
+Step : 56
+['num', 'numK', '(numC', '(num+numC', '(num+num+EC', '(num+num+EKC', '(num+num*EC', '(num+num*EKC']
+Step : 57
+['num', 'numK', '(numC', '(num+numC', '(num+num+EC', '(num+num+EKC', '(num+num*EC']
+Step : 58
+['num', 'numK', '(numC', '(num+numC', '(num+num+EC', '(num+num+EKC']
+Step : 59
+['num', 'numK', '(numC', '(num+numC', '(num+num+EC']
+Step : 60
+['num', 'numK', '(numC', '(num+numC']
+Step : 61
+['num', 'numK', '(numC', '(num+num)']

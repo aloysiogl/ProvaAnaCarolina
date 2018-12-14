@@ -1,0 +1,44 @@
+Step : 1
+['(n+n)']
+Step : 2
+['(E+n)', '(n+E)', '(n+nC']
+Step : 3
+['(n+E)', '(n+nC', '(E+E)', '(E+nC']
+Step : 4
+['(n+nC', '(E+E)', '(E+nC', '(nA)', '(nK)', '(n+EC']
+Step : 5
+['(E+E)', '(E+nC', '(nA)', '(nK)', '(n+EC', '(n+X']
+Step : 6
+['(E+nC', '(nA)', '(nK)', '(n+EC', '(n+X', '(EA)', '(EK)', '(E+EC']
+Step : 7
+['(nA)', '(nK)', '(n+EC', '(n+X', '(EA)', '(EK)', '(E+EC', '(E+X']
+Step : 8
+['(nK)', '(n+EC', '(n+X', '(EA)', '(EK)', '(E+EC', '(E+X', '(nAC']
+Step : 9
+['(n+EC', '(n+X', '(EA)', '(EK)', '(E+EC', '(E+X', '(nAC', '(E)', '(nKC']
+Step : 10
+['(n+X', '(EA)', '(EK)', '(E+EC', '(E+X', '(nAC', '(E)', '(nKC']
+Step : 11
+['(EA)', '(EK)', '(E+EC', '(E+X', '(nAC', '(E)', '(nKC']
+Step : 12
+['(EK)', '(E+EC', '(E+X', '(nAC', '(E)', '(nKC', '(EAC']
+Step : 13
+['(E+EC', '(E+X', '(nAC', '(E)', '(nKC', '(EAC', '(EKC']
+Step : 14
+['(E+X', '(nAC', '(E)', '(nKC', '(EAC', '(EKC']
+Step : 15
+['(nAC', '(E)', '(nKC', '(EAC', '(EKC']
+Step : 16
+['(E)', '(nKC', '(EAC', '(EKC']
+Step : 17
+['(nKC', '(EAC', '(EKC', '(EC']
+Step : 18
+['(EAC', '(EKC', '(EC', '(X']
+Step : 19
+['(EKC', '(EC', '(X']
+Step : 20
+['(EC', '(X']
+Step : 21
+['(X']
+Step : 22
+['E']

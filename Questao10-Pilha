@@ -1,0 +1,18 @@
+Step : 1
+['(n+n)']
+Step : 2
+['(E+n)', '(n+E)', '(n+nC']
+Step : 3
+['(E+n)', '(n+E)', '(n+X']
+Step : 4
+['(E+n)', '(n+E)']
+Step : 5
+['(E+n)', '(nA)', '(nK)', '(n+EC']
+Step : 6
+['(E+n)', '(nA)', '(nK)']
+Step : 7
+['(E+n)', '(nA)', '(E)', '(nKC']
+Step : 8
+['(E+n)', '(nA)', '(E)', '(X']
+Step : 9
+['(E+n)', '(nA)', '(E)', 'E']

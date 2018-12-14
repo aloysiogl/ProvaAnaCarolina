@@ -1,0 +1,64 @@
+  ┌num
+  ├numK
+ E┤
+  │   ┌((XCK
+  │   ├((XKCK
+  │   ├(numCK┐
+  │   │      └(num)K
+  ├(XK┤
+  │   │       ┌(num*ECK
+  │   │       ├(num*EKCK
+  │   │       │        ┌(num+(XCK
+  │   │       │        ├(num+(XKCK
+  │   │       │        ├(num+numCK┐
+  │   │       │        │          └(num+num)K
+  │   │       ├(num+ECK┤
+  │   │       │        │           ┌(num+num+ECK
+  │   │       │        │           ├(num+num+EKCK
+  │   │       │        └(num+numKCK┤
+  │   │       │                    ├(num+num*EKCK
+  │   │       │                    └(num+num*ECK
+  │   └(numKCK┤
+  │           │         ┌(num+(XKCK
+  │           │         ├(num+(XKKCK
+  │           └(num+EKCK┤
+  │                     │            ┌(num+num+EKCK
+  │                     │            ├(num+num+EKKCK
+  │                     ├(num+numKKCK┤
+  │                     │            ├(num+num*EKKCK
+  │                     │            └(num+num*EKCK
+  │                     │           ┌(num+num+ECK
+  │                     │           ├(num+num+EKCK
+  │                     └(num+numKCK┤
+  │                                 ├(num+num*EKCK
+  │                                 └(num+num*ECK
+  │  ┌(numC
+  │  ├((XC
+  │  ├((XKC
+  └(X┤
+     │      ┌(num*EC
+     │      ├(num*EKC
+     │      │       ┌(num+(XC
+     │      │       ├(num+(XKC
+     │      │       ├(num+numC┐
+     │      │       │         └(num+num)
+     │      ├(num+EC┤
+     │      │       │          ┌(num+num+EC
+     │      │       │          ├(num+num+EKC
+     │      │       └(num+numKC┤
+     │      │                  ├(num+num*EKC
+     │      │                  └(num+num*EC
+     └(numKC┤
+            │        ┌(num+(XKC
+            │        ├(num+(XKKC
+            └(num+EKC┤
+                     │           ┌(num+num+EKC
+                     │           ├(num+num+EKKC
+                     ├(num+numKKC┤
+                     │           ├(num+num*EKKC
+                     │           └(num+num*EKC
+                     │          ┌(num+num+EC
+                     │          ├(num+num+EKC
+                     └(num+numKC┤
+                                ├(num+num*EKC
+                                └(num+num*EC
